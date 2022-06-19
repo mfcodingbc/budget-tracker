@@ -8,7 +8,7 @@ This project updates a budget tracker to allow for offline access and functional
 
 ## Installation
 
-Visit the Budget Tracker [website](Heroku link here).
+Visit the Budget Tracker [website](https://obscure-garden-87340.herokuapp.com/).
 
 ## Usage
 
@@ -26,6 +26,7 @@ As this project was made to add offline funcionality, try turning off network co
 - Heroku
 - MongoDB
 - Mongoose
+- Service Workers
 
 ## Credits
 
