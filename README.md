@@ -1,6 +1,6 @@
 # Budget Tracker - Offline Feature Update
 
-Creating offline capabilities for an existing budget tracker application.
+Creating offline capabilities for an existing budget tracker application by transforming it into a Progressive Web Application (PWA).
 
 ## Description
 
@@ -17,6 +17,8 @@ Add a transaction amount with the name of the transaction and it will be added t
 ![Budget Tracker App](./assets/budget-tracker-app.PNG)
 
 As this project was made to add offline funcionality, try turning off network connection (through the _Network_ tab in Google's Dev Tools, for example) then adding transactions. Though the page won't update (due to being offline), the transactions are being tracked, which can be confirmed by checking the "IndexedDB" group under _Storage_ in Google's Dev Tools where you will find your transactions stored. Once internet connection has been reestablished, the transactions will automatically be loaded and update the page. Thus, this budget tracker application is now functional even offline!
+
+Also, the application can now be downloaded as a PWA and run outside the browser. Feel free to download this app and track your budget on-and- offline!
 
 ## Technologies Used
 
